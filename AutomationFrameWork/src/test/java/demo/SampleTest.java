@@ -11,6 +11,7 @@ public class SampleTest {
 
 	public static void main(String[] args) throws Throwable {
 		
+		//gud mrng
 		Screen scr = new Screen();
 	
 		Pattern mini = new Pattern("C:\\Users\\Shobha\\Pictures\\Screenshots\\MinimizeBar1.png");
